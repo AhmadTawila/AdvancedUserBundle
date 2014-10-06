@@ -1,0 +1,33 @@
+{
+    "name" : "Tawila/AdvancedUser",
+    "description" : "Enhanced features for those available in the FOS UserBundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Ahmad Tawila",
+        "email" : "ahmad@tawila.net"
+    }],
+    "keywords" : [
+        "advanced user bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+        "friendsofsymfony/user-bundle": "~2.0@dev"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Tawila\\AdvancedUserBundle" : ""
+        }
+    },
+    "target-dir" : "Tawila/AdvancedUserBundle",
+    "repositories" : [{
+
+    }
+    ],
+    "extra" : {
+        "branch-alias" : {
+            "dev-master" : "2.2-dev"
+        }
+    }
+}
