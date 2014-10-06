@@ -1,5 +1,5 @@
 {
-    "name" : "Tawila/AdvancedUser",
+    "name" : "tawila/advanced-user-bundle",
     "description" : "Enhanced features for those available in the FOS UserBundle",
     "type" : "symfony-bundle",
     "authors" : [{
