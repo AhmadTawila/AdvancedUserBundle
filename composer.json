@@ -9,6 +9,7 @@
     "keywords" : [
         "advanced user bundle"
     ],
+    "homepage" : "https://github.com/a-tawila/AdvancedUserBundle.git",
     "license" : [
         "MIT"
     ],
@@ -20,14 +21,5 @@
             "Tawila\\AdvancedUserBundle" : ""
         }
     },
-    "target-dir" : "Tawila/AdvancedUserBundle",
-    "repositories" : [{
-
-    }
-    ],
-    "extra" : {
-        "branch-alias" : {
-            "dev-master" : "2.2-dev"
-        }
-    }
+    "target-dir" : "Tawila/AdvancedUserBundle"
 }
